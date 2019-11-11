@@ -18,4 +18,6 @@ What has to be implemented:
  - Other communications
 
 ## Run the gateway
-Write something on how to start the gateway
+
+### Start the BLE Server
+In the root is a file called start_ble_server.sh run this and everything will be started up
